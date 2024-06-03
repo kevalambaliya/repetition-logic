@@ -1,0 +1,34 @@
+.form{
+    background-color: #F0E68C;
+    width: 500px;
+    padding: 50px;
+    border-radius: 10px;
+}
+table label{
+    border: 1px solid black;
+    background-color: #cccac9;
+    padding: 10px; 
+    color: black;
+    font-weight: 700;
+    border-radius: 5px;
+}
+table td{
+  padding: 15px;
+
+}
+table input{
+    background-color: #cccac9;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-left: 30px;
+    padding: 10px;
+}
+table button{
+    width: 150px;
+    height: 40px;
+    color: black;
+    font-weight: 600;
+    background-color: #cccac9;
+    border: 1px solid black;
+    border-radius: 5px;   
+}
